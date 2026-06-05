@@ -1,0 +1,1 @@
+# mahjong4p_Score
